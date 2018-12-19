@@ -4,3 +4,4 @@
 > Git
 > Python
 > Docker
+> k8s
