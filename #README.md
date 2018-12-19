@@ -2,3 +2,4 @@
 
 > Linux
 > Git
+> Python
